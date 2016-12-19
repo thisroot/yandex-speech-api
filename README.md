@@ -1,1 +1,1 @@
-# summernote-equation-plugin
+# yandex-speech-api
